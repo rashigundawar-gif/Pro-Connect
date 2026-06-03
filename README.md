@@ -150,23 +150,27 @@ The platform focuses on:
 
 ### 🏠 Home Page
 
-(Add Screenshot Here)
+<img width="1645" height="754" alt="Screenshot 2026-06-03 150627" src="https://github.com/user-attachments/assets/664cbcd3-2612-49c2-bdfd-b81578e4edf7" />
+
 
 ### 🔐 Login Page
+<img width="970" height="816" alt="Screenshot 2026-06-03 150341" src="https://github.com/user-attachments/assets/44bacd32-aaa3-4b04-a525-775d24bf177d" />
 
-(Add Screenshot Here)
 
 ### 👤 User Profile
 
-(Add Screenshot Here)
+<img width="1314" height="911" alt="Screenshot 2026-06-03 150803" src="https://github.com/user-attachments/assets/31c89f60-d444-42c2-9df1-5788e5cf4526" />
 
 ### 💬 Chat Interface
 
-(Add Screenshot Here)
+<img width="1681" height="913" alt="Screenshot 2026-06-03 150654" src="https://github.com/user-attachments/assets/34345506-b9e5-47da-b2e7-f1a7be15bde2" />
 
 ### 🤝 Connections Dashboard
 
-(Add Screenshot Here)
+<img width="1368" height="689" alt="Screenshot 2026-06-03 150745" src="https://github.com/user-attachments/assets/95c5cec4-4764-4e5a-aca5-15bd51dbdc34" />
+
+### 👉 Profile Optimizer
+<img width="1201" height="910" alt="Screenshot 2026-06-03 150731" src="https://github.com/user-attachments/assets/ee224cfc-5ad1-4969-8ef7-9218a3bc6470" />
 
 ---
 
