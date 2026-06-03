@@ -1,2 +1,10 @@
-# Pro-Connect
-Production-ready MERN web app featuring secure JWT auth, role-based access, connection-based feeds, real-time messaging, and optimized MongoDB design. Demonstrates strong frontend, backend, and scalable system architecture skills
+﻿# ProConnect - Professional Networking Platform
+
+## Tech Stack
+- Frontend: React.js + Vite
+- Backend: Node.js + Express.js
+- Database: MongoDB Atlas
+- Real-time: Socket.io
+- Storage: Cloudinary
+
+EOF
