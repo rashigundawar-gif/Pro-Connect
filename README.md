@@ -5,6 +5,8 @@ A modern full-stack platform designed to help professionals connect, communicate
 Built with **React.js (Frontend)** and **Node.js + Express.js (Backend)**, ProConnect provides secure authentication, real-time communication, profile management, and scalable cloud-based media storage.
 
 ---
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://pro-connect-liard.vercel.app/)
+🚀 **Live Demo:** https://pro-connect-liard.vercel.app/
 
 # 🔥 Features
 
